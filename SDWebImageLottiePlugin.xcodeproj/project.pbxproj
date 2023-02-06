@@ -25,6 +25,7 @@
 		32FBF6A12878941700A0FA93 /* LottieCompositionLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32FBF6912878941700A0FA93 /* LottieCompositionLayer.swift */; };
 		32FBF6A22878941700A0FA93 /* LottieCompositionLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32FBF6912878941700A0FA93 /* LottieCompositionLayer.swift */; };
 		32FBF6A32878941700A0FA93 /* LottieCompositionLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32FBF6912878941700A0FA93 /* LottieCompositionLayer.swift */; };
+		FC789F9A299092FA005A0709 /* CompatibleAnimationView+WebCache.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC789F99299092FA005A0709 /* CompatibleAnimationView+WebCache.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,7 @@
 		32FBF68E2878941700A0FA93 /* AnimationView+WebCache.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "AnimationView+WebCache.swift"; sourceTree = "<group>"; };
 		32FBF6902878941700A0FA93 /* AnimatedControl+WebCache.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "AnimatedControl+WebCache.swift"; sourceTree = "<group>"; };
 		32FBF6912878941700A0FA93 /* LottieCompositionLayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LottieCompositionLayer.swift; sourceTree = "<group>"; };
+		FC789F99299092FA005A0709 /* CompatibleAnimationView+WebCache.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CompatibleAnimationView+WebCache.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 			children = (
 				32FBF68C2878941700A0FA93 /* LottieImage.swift */,
 				32FBF68E2878941700A0FA93 /* AnimationView+WebCache.swift */,
+				FC789F99299092FA005A0709 /* CompatibleAnimationView+WebCache.swift */,
 				32FBF6902878941700A0FA93 /* AnimatedControl+WebCache.swift */,
 				32FBF6912878941700A0FA93 /* LottieCompositionLayer.swift */,
 			);
@@ -279,6 +282,7 @@
 			files = (
 				32FBF6922878941700A0FA93 /* LottieImage.swift in Sources */,
 				32FBF69E2878941700A0FA93 /* AnimatedControl+WebCache.swift in Sources */,
+				FC789F9A299092FA005A0709 /* CompatibleAnimationView+WebCache.swift in Sources */,
 				32FBF6A12878941700A0FA93 /* LottieCompositionLayer.swift in Sources */,
 				32FBF6982878941700A0FA93 /* AnimationView+WebCache.swift in Sources */,
 			);
